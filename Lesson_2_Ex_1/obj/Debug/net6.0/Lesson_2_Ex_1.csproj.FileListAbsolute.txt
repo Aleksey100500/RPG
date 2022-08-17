@@ -1,0 +1,15 @@
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\bin\Debug\net6.0\Lesson_2_Ex_1.exe
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\bin\Debug\net6.0\Lesson_2_Ex_1.deps.json
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\bin\Debug\net6.0\Lesson_2_Ex_1.runtimeconfig.json
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\bin\Debug\net6.0\Lesson_2_Ex_1.dll
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\bin\Debug\net6.0\Lesson_2_Ex_1.pdb
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.csproj.AssemblyReference.cache
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.AssemblyInfoInputs.cache
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.AssemblyInfo.cs
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.csproj.CoreCompileInputs.cache
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.dll
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\refint\Lesson_2_Ex_1.dll
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.pdb
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\Lesson_2_Ex_1.genruntimeconfig.cache
+D:\geekbrains\C_sharp_Semminary\LEsson_2\Lesson_2_Ex_1\obj\Debug\net6.0\ref\Lesson_2_Ex_1.dll
